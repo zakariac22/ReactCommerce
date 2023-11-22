@@ -1,4 +1,4 @@
-# Fashion Cube-Ecommerce Application
+# ReactCommerce
 
 #General Info
 
