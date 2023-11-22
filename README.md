@@ -14,15 +14,6 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 - [x] Hooks
 - [x] Redux
 
-## Future Features
-
-- Home (List products)
-- Detail products
-- Product category
-- Recommended products
-- Cart
-- Login / Register
-
 # ScreenShot
 
 <img src="screen/screen1.png">
